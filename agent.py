@@ -21,7 +21,6 @@ class Agent:
         self.gamma = gamma
         self.epsilon = epsilon
         self.epsilon_min = 0.0001
-        self.epssilon_decay = 0.9999
 
         
     def create_epsilon_greedy_policy(self, Q_state):
