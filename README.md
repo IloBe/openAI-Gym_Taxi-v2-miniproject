@@ -117,4 +117,4 @@ alpha=0.02, gamma=1.0, epsilon=0.001
 
 
 ## 4. License
-This miniproject coding is released under the [MIT Licence](https://github.com/IloBe/openAI-Gym_Taxi-v2-miniproject/LICENCE).
+This miniproject coding is released under the [MIT Licence](https://github.com/IloBe/openAI-Gym_Taxi-v2-miniproject/blob/master/LICENCE).
