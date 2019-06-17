@@ -12,7 +12,7 @@ The workspace contains 3 Python files, including the implemented agent:
 - main.py: This file is the starting point for a terminal run and checks the performance of the agent. 
 
 To use such coding, the Python _.py_ files have to be downloaded. They are implemented with Python version 3.6 which has to be installed.
-Furthermore, a common terminal tool shall be used for running the code.
+Furthermore, a common terminal tool shall be used for running the code.<br>
 To start the learning via terminal, change to the associated directory that includes these files and execute it by typing:
 ```
 python main.py
@@ -23,8 +23,7 @@ python main.py
 
 ### 2.1 General Information
 
-Description of the **agent implementation** concept:<br>
-To solve this task 2 Temporal-Difference methods, TD learning for short, have been tested:
+Description of the **agent implementation** concept: To solve this task 2 Temporal-Difference methods, TD learning for short, have been tested:
 - SARSA
 - Expected SARSA
 
@@ -52,7 +51,7 @@ The much better performance results of Expected SARSA leads to the decision to s
 
 ## 3. Performance
 
-Performance evaluation results regarding the best average reward:<br>
+Performance evaluation results, regarding the best average reward:<br>
 Hyperparameter - result
 
 ### 3.1 Sarsa implementation
